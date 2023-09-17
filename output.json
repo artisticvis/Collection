@@ -6,14 +6,14 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "animation",
+            "animation/kinetic",
             "sound/music",
             "light",
             "synchronous generation"
@@ -25,7 +25,7 @@
             "physical computing"
         ],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "not specified"
@@ -49,7 +49,7 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -67,7 +67,7 @@
             "engage"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "",
         "computation": "",
@@ -86,7 +86,7 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -101,7 +101,7 @@
             "data sonification"
         ],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "not specified"
@@ -125,8 +125,8 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "static image"
@@ -139,7 +139,7 @@
             "graphic art"
         ],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "not specified"
@@ -161,24 +161,24 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "interactive interface",
             "installation"
         ],
         "designTechnique": [
-            "animation",
+            "animation/kinetic",
             "GUI interaction",
             "metaphor"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "analysis"
+            "analyze"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "rain drops",
         "computation": "",
@@ -199,7 +199,7 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -234,7 +234,7 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -248,7 +248,7 @@
             "not specified"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "neuro/organ",
         "computation": "",
@@ -267,8 +267,8 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "static image"
@@ -282,11 +282,11 @@
             "ambient display"
         ],
         "whatPurpose": [
-            "analysis",
-            "explore/experiment"
+            "analyze",
+            "experiment"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "flower",
         "computation": "",
@@ -305,8 +305,8 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "video"
@@ -317,11 +317,11 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "simulate/represent",
-            "explore/experiment"
+            "reveal",
+            "experiment"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -340,8 +340,8 @@
             "2013"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -357,8 +357,8 @@
             "data sonification"
         ],
         "whatPurpose": [
-            "explore/experiment",
-            "socialize/connect"
+            "experiment",
+            "socialize"
         ],
         "whereField": [
             "not specified"
@@ -382,7 +382,7 @@
             "2013"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -418,7 +418,7 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -450,7 +450,7 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -488,22 +488,22 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "video",
             "static image"
         ],
         "designTechnique": [
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "engage"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -524,8 +524,8 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -535,11 +535,11 @@
             "AR/VR/MR",
             "synchronous generation",
             "gesture",
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "not specified"
@@ -561,8 +561,8 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "artifact"
@@ -577,7 +577,7 @@
             "inform"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -598,8 +598,8 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "installation"
@@ -607,7 +607,7 @@
         "designTechnique": [
             "synchronous generation",
             "light",
-            "animation",
+            "animation/kinetic",
             "particles"
         ],
         "designParadigm": [],
@@ -615,7 +615,7 @@
             "inform"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -636,8 +636,8 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -649,11 +649,11 @@
             "data sonification"
         ],
         "whatPurpose": [
-            "simulate/represent",
-            "explore/experiment"
+            "reveal",
+            "experiment"
         ],
         "whereField": [
-            "geography"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -676,7 +676,7 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface",
@@ -684,13 +684,13 @@
         ],
         "designTechnique": [
             "gesture",
-            "animation",
+            "animation/kinetic",
             "particles"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "enable",
-            "witness/aid"
+            "witness"
         ],
         "whereField": [
             "not specified"
@@ -714,7 +714,7 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -728,10 +728,10 @@
             "speculative design"
         ],
         "whatPurpose": [
-            "criticize/question/reflect"
+            "criticize"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -752,7 +752,7 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -764,11 +764,11 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "socialize/connect",
-            "analysis"
+            "socialize",
+            "analyze"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "",
         "computation": "",
@@ -789,23 +789,23 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "video",
             "algorithm/tool"
         ],
         "designTechnique": [
-            "animation",
+            "animation/kinetic",
             "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "",
         "computation": "",
@@ -826,8 +826,8 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "performance"
@@ -835,7 +835,7 @@
         "designTechnique": [
             "AR/VR/MR",
             "narrative",
-            "animation",
+            "animation/kinetic",
             "large immersive screen",
             "sound/music",
             "light",
@@ -848,7 +848,7 @@
             "engage"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -867,7 +867,7 @@
             "2014"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -901,13 +901,13 @@
             "2014"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "animation",
+            "animation/kinetic",
             "layout",
             "shape/pattern",
             "AR/VR/MR"
@@ -922,7 +922,7 @@
             "enable"
         ],
         "whereField": [
-            "hci"
+            "computer science"
         ],
         "意象": "",
         "computation": "",
@@ -941,7 +941,7 @@
             "2014"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -958,7 +958,7 @@
             "enable"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "flora",
         "computation": "",
@@ -977,7 +977,7 @@
             "2014"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "static image",
@@ -1016,7 +1016,7 @@
             "2014"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -1051,24 +1051,24 @@
             "2014"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
-            "architecture"
+            "installation"
         ],
         "designTechnique": [
             "light",
             "color",
-            "animation",
+            "animation/kinetic",
             "synchronous generation"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "engage",
-            "pursuade/promote"
+            "advocate"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -1089,7 +1089,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "video",
@@ -1097,12 +1097,12 @@
         ],
         "designTechnique": [
             "narrative",
-            "animation",
+            "animation/kinetic",
             "large immersive screen"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "simulate/represent",
+            "reveal",
             "inform"
         ],
         "whereField": [
@@ -1125,7 +1125,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "video",
@@ -1134,7 +1134,7 @@
         ],
         "designTechnique": [
             "AR/VR/MR",
-            "animation",
+            "animation/kinetic",
             "particles",
             "color",
             "shape/pattern"
@@ -1143,7 +1143,7 @@
             "electronic art"
         ],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "math"
@@ -1165,13 +1165,13 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "animation",
+            "animation/kinetic",
             "imagery/icon/photo"
         ],
         "designParadigm": [
@@ -1202,7 +1202,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -1217,7 +1217,7 @@
             "engage"
         ],
         "whereField": [
-            "geography"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -1238,7 +1238,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1272,21 +1272,23 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
         ],
         "designTechnique": [
-            "shape/pattern"
+            "shape/pattern",
+            "machine view",
+            "montage/collage"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "provoke",
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -1307,7 +1309,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
@@ -1320,11 +1322,11 @@
             "digital fabrication"
         ],
         "whatPurpose": [
-            "explore/experiment",
-            "criticize/question/reflect"
+            "experiment",
+            "criticize"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -1343,13 +1345,13 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "video"
         ],
         "designTechnique": [
-            "animation",
+            "animation/kinetic",
             "sound/music",
             "imagery/icon/photo"
         ],
@@ -1357,7 +1359,9 @@
         "whatPurpose": [
             "engage"
         ],
-        "whereField": [],
+        "whereField": [
+            "not specified"
+        ],
         "意象": "",
         "computation": "",
         "特殊材料": "",
@@ -1377,7 +1381,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -1385,14 +1389,14 @@
         "designTechnique": [
             "sound/music",
             "narrative",
-            "glitch/uncertainty"
+            "glitch/flaw"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "archive"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -1411,7 +1415,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
@@ -1422,7 +1426,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "psychology"
@@ -1444,7 +1448,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -1455,10 +1459,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "simulate/represent"
+            "reveal"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "",
         "computation": "",
@@ -1477,7 +1481,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1511,8 +1515,8 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -1527,7 +1531,7 @@
             "engage"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -1546,19 +1550,19 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "glitch/uncertainty",
+            "glitch/flaw",
             "machine view"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "inform",
-            "criticize/question/reflect"
+            "criticize"
         ],
         "whereField": [
             "computer science"
@@ -1580,21 +1584,21 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation",
             "video"
         ],
         "designTechnique": [
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -1613,7 +1617,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1626,10 +1630,10 @@
         "designParadigm": [],
         "whatPurpose": [
             "inform",
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "literature"
+            "language & literature"
         ],
         "意象": "",
         "computation": "",
@@ -1645,13 +1649,13 @@
         "images": "A Stranger to Words.png"
     },
     {
-        "name": " Deep in Poetry",
+        "name": "Deep in Poetry",
         "author": "Julie Lein, Nina McCurdy, Katharine Coles, and Amanda Hurtado",
         "time": [
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1661,10 +1665,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "literature"
+            "language & literature"
         ],
         "意象": "",
         "computation": "",
@@ -1685,7 +1689,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -1696,10 +1700,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "criticize/question/reflect"
+            "criticize"
         ],
         "whereField": [
-            "sports"
+            "daily life"
         ],
         "意象": "",
         "computation": "",
@@ -1718,7 +1722,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1751,7 +1755,7 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -1761,11 +1765,11 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "analysis",
-            "simulate/represent"
+            "analyze",
+            "reveal"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "dense sensor network",
@@ -1786,13 +1790,13 @@
             "2015"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "animation",
+            "animation/kinetic",
             "sound/music",
             "shape/pattern",
             "color",
@@ -1803,7 +1807,7 @@
             "provoke"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "",
         "computation": "",
@@ -1824,7 +1828,7 @@
             "2015"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "installation"
@@ -1840,7 +1844,7 @@
             "spatial narrative"
         ],
         "whatPurpose": [
-            "explore/experiment",
+            "experiment",
             "provoke"
         ],
         "whereField": [
@@ -1865,27 +1869,27 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "imagery/icon/photo",
-            "GUI interaction"
+            "GUI interaction",
+            "color"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "not specified"
         ],
         "whereField": [
-            "geography"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
         "特殊材料": "Operational Line Scanner (OLS) sensor",
         "datatype": [
-            "image data"
+            "geo-spatial data"
         ],
         "个性化身份": "",
         "Background": "",
@@ -1900,8 +1904,8 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "static image",
@@ -1916,7 +1920,7 @@
             "enable"
         ],
         "whereField": [
-            "geography"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -1937,7 +1941,7 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "video"
@@ -1946,14 +1950,12 @@
             "imagery/icon/photo",
             "analogy"
         ],
-        "designParadigm": [
-            "experiential data"
-        ],
+        "designParadigm": [],
         "whatPurpose": [
             "inform"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -1972,25 +1974,25 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "sound/music",
-            "GUI interaction",
-            "texture"
+            "projection",
+            "physical meterial"
         ],
         "designParadigm": [
             "data sonification"
         ],
         "whatPurpose": [
-            "pursuade/promote"
+            "advocate"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -2011,7 +2013,7 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -2043,29 +2045,28 @@
         "images": "Geode.png"
     },
     {
-        "name": " Staged Analysis: From Evocative to Comparative Visualizations of Urban Mobility；cf. city flows",
+        "name": "cf. city flows (Staged Analysis: From Evocative to Comparative Visualizations of Urban Mobility)",
         "author": "Till Nagel, Christopher Pietsch, and Marian Dörk",
         "time": [
             "2016"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
-            "interactive interface"
+            "installation"
         ],
         "designTechnique": [
             "GUI interaction",
-            "layout",
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "analysis"
+            "analyze"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -2077,7 +2078,7 @@
         "Background": "",
         "Affiliation": "",
         "Notes": "",
-        "images": "Staged Analysis_ From Evocative to Comparative Visualizations of Urban Mobility；cf. city flows.png"
+        "images": "cf. city flows (Staged Analysis_ From Evocative to Comparative Visualizations of Urban Mobility).png"
     },
     {
         "name": "Video Voto Matic",
@@ -2086,7 +2087,7 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -2119,18 +2120,19 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
         ],
         "designTechnique": [
             "color",
-            "shape/pattern"
+            "shape/pattern",
+            "biology/plants"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "biology"
@@ -2154,21 +2156,22 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "video"
         ],
         "designTechnique": [
-            "texture",
-            "sound/music"
+            "sound/music",
+            "layout",
+            "imagery/icon/photo"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -2189,7 +2192,7 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "video"
@@ -2197,14 +2200,14 @@
         "designTechnique": [
             "shape/pattern",
             "color",
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "inform"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -2223,8 +2226,8 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "static image"
@@ -2239,7 +2242,7 @@
             "provoke"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -2260,20 +2263,20 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "installation"
+            "artifact"
         ],
         "designTechnique": [
             "physical meterial"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "provoke"
+            "criticize"
         ],
         "whereField": [
-            "society"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -2294,22 +2297,23 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
             "sound/music",
-            "animation",
-            "GUI interaction"
+            "animation/kinetic",
+            "GUI interaction",
+            "particles"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "inform"
         ],
         "whereField": [
-            "geography"
+            "business"
         ],
         "意象": "",
         "computation": "",
@@ -2330,14 +2334,14 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
             "GUI interaction",
-            "animation",
+            "animation/kinetic",
             "imagery/icon/photo"
         ],
         "designParadigm": [],
@@ -2345,7 +2349,7 @@
             "engage"
         ],
         "whereField": [
-            "geography"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -2366,15 +2370,14 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
-            "fabrication",
             "3D printing",
-            "force/organism?"
+            "physical meterial"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2400,7 +2403,7 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -2411,7 +2414,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "provoke"
+            "reveal"
         ],
         "whereField": [
             "education"
@@ -2435,7 +2438,7 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -2446,10 +2449,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "inform"
+            "criticize"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "",
         "computation": "",
@@ -2468,22 +2471,22 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "video"
+            "interactive interface"
         ],
         "designTechnique": [
             "metaphor",
-            "animation",
+            "animation/kinetic",
             "color"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "health/medicine"
+            "health & well-being"
         ],
         "意象": "firefly",
         "computation": "",
@@ -2502,21 +2505,21 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "static image"
+            "interactive interface"
         ],
         "designTechnique": [
-            "?",
-            "metaphor"
+            "analogy",
+            "GUI interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "engage"
         ],
         "whereField": [
-            "literature"
+            "language & literature"
         ],
         "意象": "map",
         "computation": "",
@@ -2537,21 +2540,23 @@
             "2016"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "video",
-            "?"
+            "video"
         ],
         "designTechnique": [
-            "animation"
+            "animation/kinetic",
+            "color",
+            "shape/pattern",
+            "sound/music"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "inform"
         ],
         "whereField": [
-            "economy&finance"
+            "business"
         ],
         "意象": "",
         "computation": "",
@@ -2570,8 +2575,8 @@
             "2016"
         ],
         "artPaper": [
-            "(Program + )Papers",
-            "Art Show"
+            "paper",
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -2586,7 +2591,7 @@
             "provoke"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "",
         "computation": "",
@@ -2605,22 +2610,22 @@
             "2016"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "algorithm/tool"
         ],
         "designTechnique": [
-            "style"
+            "glitch/flaw"
         ],
         "designParadigm": [
             "glitch art"
         ],
         "whatPurpose": [
-            "analysis"
+            "analyze"
         ],
         "whereField": [
-            "health/medicine"
+            "health & well-being"
         ],
         "意象": "",
         "computation": "",
@@ -2641,8 +2646,8 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "installation"
@@ -2651,14 +2656,15 @@
             "sound/music",
             "light",
             "metaphor",
-            "fabrication"
+            "physical meterial",
+            "imagery/icon/photo"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "inform"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "shark",
         "computation": "",
@@ -2679,20 +2685,21 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "?"
+            "GUI interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "engage"
+            "engage",
+            "advocate"
         ],
         "whereField": [
-            "urban study"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -2713,23 +2720,24 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "video",
             "performance"
         ],
         "designTechnique": [
-            "behavior",
             "situated context",
-            "physical meterial"
+            "physical meterial",
+            "body movement/language"
         ],
-        "designParadigm": [],
+        "designParadigm": [
+            "data humanization"
+        ],
         "whatPurpose": [
-            "witness/aid"
+            "witness"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -2748,7 +2756,7 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -2762,7 +2770,7 @@
             "not specified"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "",
         "computation": "",
@@ -2781,7 +2789,7 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -2789,13 +2797,13 @@
         "designTechnique": [
             "metaphor",
             "synchronous generation",
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [
             "generative art"
         ],
         "whatPurpose": [
-            "provoke"
+            "not specified"
         ],
         "whereField": [
             "not specified"
@@ -2819,18 +2827,17 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
         ],
         "designTechnique": [
             "imagery/icon/photo",
-            "machine view"
+            "machine view",
+            "glitch/flaw"
         ],
-        "designParadigm": [
-            "glitch art"
-        ],
+        "designParadigm": [],
         "whatPurpose": [
             "provoke"
         ],
@@ -2854,7 +2861,7 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -2868,7 +2875,7 @@
             "inform"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -2887,8 +2894,8 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "installation"
@@ -2924,13 +2931,13 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "force/organism?"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -2958,7 +2965,7 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -2968,10 +2975,11 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "engage"
+            "engage",
+            "reveal"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "",
         "computation": "",
@@ -2990,13 +2998,15 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
         ],
         "designTechnique": [
-            "?"
+            "color",
+            "shape/pattern",
+            "metaphor"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3022,7 +3032,7 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "performance"
@@ -3057,30 +3067,31 @@
             "2017"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "performance",
             "installation"
         ],
         "designTechnique": [
-            "sound/music"
+            "sound/music",
+            "shape/pattern"
         ],
         "designParadigm": [
             "data sonification"
         ],
         "whatPurpose": [
-            "explore/experiment"
+            "enable"
         ],
         "whereField": [
-            "art/music",
-            "?"
+            "not specified"
         ],
         "意象": "",
         "computation": "",
         "特殊材料": "",
         "datatype": [
-            "image data"
+            "image data",
+            "real-time data"
         ],
         "个性化身份": "",
         "Background": "",
@@ -3089,27 +3100,102 @@
         "images": "VOSIS.png"
     },
     {
+        "name": "Less Ephemeral (Using the Interaction Geography Slicer to Visualize New York City Stop & Frisk)",
+        "author": "Ben Rydal Shapiro and Francis A. Pearman, II, Stop & Frisk\nMarco Pinter",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "static image"
+        ],
+        "designTechnique": [
+            "particles",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "provoke"
+        ],
+        "whereField": [
+            "social issues"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "geo-spatial data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "Less Ephemeral (Using the Interaction Geography Slicer to Visualize New York City Stop & Frisk).png"
+    },
+    {
+        "name": "3D Visualization of Genetic Networks",
+        "author": "Jennifer Weiler and Kat Fowler",
+        "time": [
+            "2017"
+        ],
+        "artPaper": [
+            "art show",
+            "paper"
+        ],
+        "designCategory": [
+            "artifact"
+        ],
+        "designTechnique": [
+            "physical meterial",
+            "3D printing",
+            "color"
+        ],
+        "designParadigm": [],
+        "whatPurpose": [
+            "experiment"
+        ],
+        "whereField": [
+            "biology"
+        ],
+        "意象": "",
+        "computation": "",
+        "特殊材料": "",
+        "datatype": [
+            "graph data"
+        ],
+        "个性化身份": "",
+        "Background": "",
+        "Affiliation": "",
+        "Notes": "",
+        "images": "3D Visualization of Genetic Networks.png"
+    },
+    {
         "name": "Understanding People’s Interaction with Neural Sci-Art",
         "author": "Manuela Garreton, Karina Hyland, and Denis Parra",
         "time": [
             "2017"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
-        "designTechnique": [],
+        "designTechnique": [
+            "imagery/icon/photo",
+            "GUI interaction"
+        ],
         "designParadigm": [],
         "whatPurpose": [
-            "provoke"
+            "engage"
         ],
         "whereField": [
-            "science",
             "biology"
         ],
-        "意象": "神经网络",
+        "意象": "",
         "computation": "",
         "特殊材料": "",
         "datatype": [
@@ -3128,21 +3214,20 @@
             "2017"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
-            "interactive interface"
+            "video"
         ],
         "designTechnique": [
-            "animation",
-            "narrative"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "engage"
+            "inform"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "liquid/液体",
         "computation": "",
@@ -3161,31 +3246,29 @@
             "2017"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
-            "interactive interface",
             "installation"
         ],
         "designTechnique": [
-            "participation/co-create",
             "projection",
             "color",
+            "metaphor",
             "shape/pattern"
         ],
         "designParadigm": [],
         "whatPurpose": [
+            "inform",
             "engage"
         ],
         "whereField": [
             "biology"
         ],
-        "意象": "环形视觉结构",
+        "意象": "infinite",
         "computation": "",
-        "特殊材料": "iPad和模拟滑块传感器",
-        "datatype": [
-            "multi-modal data"
-        ],
+        "特殊材料": "",
+        "datatype": [],
         "个性化身份": "",
         "Background": "",
         "Affiliation": "",
@@ -3199,18 +3282,19 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "interactive interface",
-            "?"
+            "installation"
         ],
         "designTechnique": [
+            "3D printing",
+            "physical meterial",
             "metaphor"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "analysis"
+            "analyze"
         ],
         "whereField": [
             "history"
@@ -3232,22 +3316,23 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "artifact"
+            "artifact",
+            "algorithm/tool"
         ],
         "designTechnique": [
             "3D printing",
-            "layout",
-            "physical meterial"
+            "physical meterial",
+            "shape/pattern"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "not specified"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -3268,7 +3353,7 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -3282,7 +3367,7 @@
             "archive"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -3303,7 +3388,7 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -3338,22 +3423,22 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "algorithm/tool"
+            "algorithm/tool",
+            "interactive interface"
         ],
         "designTechnique": [
             "shape/pattern",
-            "color",
-            "?"
+            "color"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "enable"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -3374,14 +3459,16 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "static image"
+            "interactive interface"
         ],
         "designTechnique": [
             "machine view",
-            "?"
+            "shape/pattern",
+            "color",
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3393,7 +3480,9 @@
         "意象": "",
         "computation": "",
         "特殊材料": "",
-        "datatype": [],
+        "datatype": [
+            "real-time data"
+        ],
         "个性化身份": "",
         "Background": "metaLAB",
         "Affiliation": "Harvar",
@@ -3407,15 +3496,14 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show",
+            "art show",
             "pictorial/annotated portfolio"
         ],
         "designCategory": [
-            "video"
+            "static image"
         ],
         "designTechnique": [
-            "metaphor",
-            "animation"
+            "imagery/icon/photo"
         ],
         "designParadigm": [
             "experimental media archeology"
@@ -3424,7 +3512,7 @@
             "provoke"
         ],
         "whereField": [
-            "society"
+            "daily life"
         ],
         "意象": "The Phaistos Disc",
         "computation": "",
@@ -3443,23 +3531,23 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
         ],
         "designTechnique": [
-            "fabrication",
-            "physical meterial"
+            "physical meterial",
+            "metaphor"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "engage"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
-        "意象": "",
+        "意象": "footprint",
         "computation": "",
         "特殊材料": "",
         "datatype": [],
@@ -3476,21 +3564,22 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show",
+            "art show",
             "pictorial/annotated portfolio"
         ],
         "designCategory": [
-            "video"
+            "algorithm/tool"
         ],
         "designTechnique": [
-            "metaphor"
+            "metaphor",
+            "color"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "inform"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "tree rings",
         "computation": "",
@@ -3509,7 +3598,7 @@
             "2018"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "video"
@@ -3517,17 +3606,17 @@
         "designTechnique": [
             "sound/music",
             "shape/pattern",
-            "animation",
+            "animation/kinetic",
             "color"
         ],
         "designParadigm": [
             "abstract animation"
         ],
         "whatPurpose": [
-            "simulate/represent"
+            "reveal"
         ],
         "whereField": [
-            "literature"
+            "language & literature"
         ],
         "意象": "",
         "computation": "",
@@ -3553,18 +3642,24 @@
         "designCategory": [
             "interactive interface"
         ],
-        "designTechnique": [],
+        "designTechnique": [
+            "color",
+            "GUI interaction"
+        ],
         "designParadigm": [],
         "whatPurpose": [
+            "reveal",
             "provoke"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
         "特殊材料": "",
-        "datatype": [],
+        "datatype": [
+            "geo-spatial data"
+        ],
         "个性化身份": "",
         "Background": "Design department",
         "Affiliation": "University of Paris 1 Pantheon- Sorbonne",
@@ -3585,14 +3680,16 @@
         ],
         "designTechnique": [
             "color",
-            "shape/pattern"
+            "personalize",
+            "layout"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "provoke"
+            "archive",
+            "socialize"
         ],
         "whereField": [
-            "society"
+            "daily life"
         ],
         "意象": "",
         "computation": "",
@@ -3611,28 +3708,33 @@
             "2018"
         ],
         "artPaper": [
-            "(Program + )Papers",
             "pictorial/annotated portfolio"
         ],
         "designCategory": [
-            "installation",
-            "artifact"
+            "artifact",
+            "static image",
+            "event",
+            "interactive interface"
         ],
         "designTechnique": [
-            "3D printing"
+            "3D printing",
+            "imagery/icon/photo",
+            "physical meterial",
+            "color"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
         "特殊材料": "Arduinos, low-cost sensors, smartphones, 3D printing, laser cutting, digital textiles, Processing, the UnfoldingMaps library, UV printers, and digital embroidery machines.",
         "datatype": [
-            "multi-modal data"
+            "multi-modal data",
+            "geo-spatial data"
         ],
         "个性化身份": "",
         "Background": "",
@@ -3647,7 +3749,7 @@
             "2018"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -3661,7 +3763,7 @@
             "enable"
         ],
         "whereField": [
-            "art/music"
+            "not specified"
         ],
         "意象": "",
         "computation": "",
@@ -3682,11 +3784,10 @@
             "2018"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
-            "algorithm/tool",
-            "?"
+            "algorithm/tool"
         ],
         "designTechnique": [
             "GUI interaction",
@@ -3694,16 +3795,17 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "analysis"
+            "analyze"
         ],
         "whereField": [
-            "geography"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
         "特殊材料": "",
         "datatype": [
-            "geo-spatial data"
+            "geo-spatial data",
+            "graph data"
         ],
         "个性化身份": "",
         "Background": "",
@@ -3718,13 +3820,17 @@
             "2018"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "light"
+            "light",
+            "participation/co-create",
+            "narrative",
+            "color",
+            "metaphor"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -3733,7 +3839,7 @@
         "whereField": [
             "computer science"
         ],
-        "意象": "",
+        "意象": "looking at the world through rose-colored glasses \n \n \n ",
         "computation": "",
         "特殊材料": "",
         "datatype": [
@@ -3752,7 +3858,7 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -3765,10 +3871,10 @@
             "generative art"
         ],
         "whatPurpose": [
-            "criticize/question/reflect"
+            "criticize"
         ],
         "whereField": [
-            "geography"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -3789,23 +3895,27 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "machine view"
+            "machine view",
+            "force/organism?",
+            "montage/collage"
         ],
         "designParadigm": [
-            "generative art"
+            "generative art",
+            "evolutionary algorithm",
+            "data sonification"
         ],
         "whatPurpose": [
-            "witness/aid"
+            "witness"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -3816,7 +3926,7 @@
         "个性化身份": "",
         "Background": "",
         "Affiliation": "",
-        "Notes": "",
+        "Notes": "At its heart is the speculative proposition of the data of a city as a habitat for new forms of life. \n ",
         "images": "Infranet_ A Geospatial Data-Driven Neuro-Evolutionary Artwork.png"
     },
     {
@@ -3826,7 +3936,7 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -3836,15 +3946,17 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "inform"
+            "reveal"
         ],
         "whereField": [
-            "literature"
+            "language & literature"
         ],
         "意象": "tree",
         "computation": "",
         "特殊材料": "",
-        "datatype": [],
+        "datatype": [
+            "textual data"
+        ],
         "个性化身份": "",
         "Background": "",
         "Affiliation": "",
@@ -3858,7 +3970,7 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
@@ -3866,14 +3978,15 @@
         "designTechnique": [
             "participation/co-create",
             "3D printing",
-            "physical meterial"
+            "physical meterial",
+            "narrative"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "provoke"
+            "criticize"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -3894,7 +4007,7 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -3902,14 +4015,17 @@
         "designTechnique": [
             "large immersive screen",
             "AR/VR/MR",
-            "?"
+            "narrative",
+            "machine view",
+            "imagery/icon/photo"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "inform"
+            "inform",
+            "experiment"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -3928,22 +4044,22 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
             "sound/music",
-            "animation",
+            "animation/kinetic",
             "imagery/icon/photo",
             "physical meterial",
             "3D printing",
-            "?"
+            "personalize"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "provoke"
         ],
         "whereField": [
             "biology"
@@ -3967,20 +4083,21 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "participation/co-create"
+            "narrative",
+            "GUI interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "criticize/question/reflect"
+            "analyze"
         ],
         "whereField": [
-            "geography"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -3999,7 +4116,7 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
@@ -4007,17 +4124,18 @@
         "designTechnique": [
             "physical meterial",
             "color",
-            "texture",
-            "?"
+            "metaphor"
         ],
-        "designParadigm": [],
+        "designParadigm": [
+            "data physicalization"
+        ],
         "whatPurpose": [
             "engage"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
-        "意象": "",
+        "意象": "tighten",
         "computation": "",
         "特殊材料": "",
         "datatype": [],
@@ -4034,18 +4152,19 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
-            "static image"
+            "video"
         ],
         "designTechnique": [
             "color",
-            "shape/pattern"
+            "shape/pattern",
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "not specified"
+            "experiment"
         ],
         "whereField": [
             "not specified"
@@ -4067,7 +4186,7 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -4082,8 +4201,7 @@
             "not specified"
         ],
         "whereField": [
-            "computer science",
-            "psychology"
+            "not specified"
         ],
         "意象": "",
         "computation": "",
@@ -4104,20 +4222,22 @@
             "2019"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
-            "metaphor"
+            "metaphor",
+            "GUI interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment",
+            "inform"
         ],
         "whereField": [
-            "economy&finance"
+            "business"
         ],
         "意象": "fog",
         "computation": "",
@@ -4136,30 +4256,34 @@
             "2019"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
-            "installation"
+            "installation",
+            "artifact"
         ],
         "designTechnique": [
-            "shape/pattern"
+            "physical meterial",
+            "metaphor",
+            "situated context"
         ],
-        "designParadigm": [],
+        "designParadigm": [
+            "data physicalization"
+        ],
         "whatPurpose": [
-            "provoke"
+            "engage",
+            "inform"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
-        "意象": "海螺、贝壳",
+        "意象": "",
         "computation": "",
-        "特殊材料": "He carefully removed the original labelling from the bags with nail polish remover,and printed onto a clear vinyl sticker in order to",
-        "datatype": [
-            "real-time data"
-        ],
+        "特殊材料": "",
+        "datatype": [],
         "个性化身份": " a designer/researcher/educator",
         "Background": "",
-        "Affiliation": "",
+        "Affiliation": "OCAD University",
         "Notes": "",
         "images": "Data Manifestation_ Merging the Human World and Global Climate Change.png"
     },
@@ -4170,16 +4294,21 @@
             "2019"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
-        "designCategory": [],
+        "designCategory": [
+            "algorithm/tool"
+        ],
         "designTechnique": [
-            "color",
-            "shape/pattern"
+            "style"
         ],
         "designParadigm": [],
-        "whatPurpose": [],
-        "whereField": [],
+        "whatPurpose": [
+            "enable"
+        ],
+        "whereField": [
+            "not specified"
+        ],
         "意象": "",
         "computation": "",
         "特殊材料": "",
@@ -4199,20 +4328,25 @@
             "2019"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "installation"
         ],
         "designTechnique": [
-            "participation/co-create"
+            "body movement/language",
+            "participation/co-create",
+            "color",
+            "imagery/icon/photo"
         ],
-        "designParadigm": [],
+        "designParadigm": [
+            "digital art"
+        ],
         "whatPurpose": [
             "provoke"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -4239,23 +4373,29 @@
             "installation"
         ],
         "designTechnique": [
-            "shape/pattern"
+            "typography/calligraphy",
+            "color",
+            "GUI interaction"
         ],
-        "designParadigm": [],
-        "whatPurpose": [],
+        "designParadigm": [
+            "digital humanism"
+        ],
+        "whatPurpose": [
+            "experiment"
+        ],
         "whereField": [
-            "geography",
-            "literature"
+            "language & literature"
         ],
         "意象": "",
         "computation": "",
         "特殊材料": "",
         "datatype": [
-            "textual data"
+            "textual data",
+            "geo-spatial data"
         ],
         "个性化身份": "a senior lecturer",
         "Background": "",
-        "Affiliation": "",
+        "Affiliation": "Northumbria University",
         "Notes": "",
         "images": "Mapping The Prelude_ A Visualisation of Wordsworth's Poetry.png"
     },
@@ -4270,17 +4410,19 @@
         ],
         "designCategory": [
             "static image",
-            "installation"
+            "interactive interface"
         ],
         "designTechnique": [
-            "shape/pattern"
+            "shape/pattern",
+            "biology/plants",
+            "situated context"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "engage"
+            "reveal"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -4290,7 +4432,7 @@
         ],
         "个性化身份": "Associate Professor and Chair of the department of Art + Design at Northeastern University",
         "Background": "",
-        "Affiliation": "",
+        "Affiliation": "Northeastern University",
         "Notes": "",
         "images": "Dustmark and Ozone Tattoos_ Autographic displays of air pollution.png"
     },
@@ -4303,26 +4445,27 @@
         "artPaper": [
             "pictorial/annotated portfolio"
         ],
-        "designCategory": [],
+        "designCategory": [
+            "algorithm/tool",
+            "artifact"
+        ],
         "designTechnique": [
             "shape/pattern",
             "color",
-            "AR/VR/MR"
+            "physical meterial",
+            "imagery/icon/photo"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "inform"
+            "enable"
         ],
         "whereField": [
-            "art/music",
-            "computer science"
+            "not specified"
         ],
         "意象": "",
         "computation": "",
         "特殊材料": "",
-        "datatype": [
-            "multi-modal data"
-        ],
+        "datatype": [],
         "个性化身份": "an artist, primarily a printmaker and mural paint； Computer Science graduate；a graduate research assistant；Professor of Computer Science",
         "Background": "",
         "Affiliation": "",
@@ -4336,7 +4479,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -4354,7 +4497,7 @@
             "engage"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -4375,7 +4518,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -4387,10 +4530,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "",
         "computation": "",
@@ -4412,7 +4555,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
@@ -4426,7 +4569,7 @@
             "not specified"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -4445,7 +4588,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -4479,7 +4622,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -4514,7 +4657,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show",
+            "art show",
             "pictorial/annotated portfolio"
         ],
         "designCategory": [
@@ -4531,7 +4674,7 @@
             "empower"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "knot",
         "computation": "",
@@ -4552,7 +4695,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -4560,14 +4703,14 @@
         "designTechnique": [
             "imagery/icon/photo",
             "narrative",
-            "situated context"
+            "machine view"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -4586,7 +4729,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -4625,7 +4768,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -4634,15 +4777,15 @@
             "narrative",
             "imagery/icon/photo",
             "particles",
-            "animation",
+            "animation/kinetic",
             "GUI interaction"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "commemorate/celebrate"
+            "memorize"
         ],
         "whereField": [
-            "health/medicine"
+            "health & well-being"
         ],
         "意象": "",
         "computation": "",
@@ -4664,7 +4807,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "video"
@@ -4672,7 +4815,7 @@
         "designTechnique": [
             "sound/music",
             "shape/pattern",
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -4698,7 +4841,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
@@ -4712,11 +4855,11 @@
             "generative artifact"
         ],
         "whatPurpose": [
-            "criticize/question/reflect",
-            "simulate/represent"
+            "criticize",
+            "reveal"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -4735,7 +4878,7 @@
             "2020"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "algorithm/tool"
@@ -4748,7 +4891,7 @@
             "enable"
         ],
         "whereField": [
-            "science"
+            "not specified"
         ],
         "意象": "printmaking",
         "computation": "",
@@ -4767,7 +4910,7 @@
             "2020"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -4775,15 +4918,15 @@
         "designTechnique": [
             "metaphor",
             "gesture",
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "criticize/question/reflect",
-            "explore/experiment"
+            "criticize",
+            "experiment"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "forest",
         "computation": "",
@@ -4802,23 +4945,23 @@
             "2020"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
         ],
         "designTechnique": [
             "metaphor",
-            "animation",
+            "animation/kinetic",
             "color",
             "shape/pattern"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "socialize/connect"
+            "socialize"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "（鸟类、蜜蜂等）集群模拟行为",
         "computation": "",
@@ -4839,7 +4982,7 @@
             "2020"
         ],
         "artPaper": [
-            "Art Show",
+            "art show",
             "pictorial/annotated portfolio"
         ],
         "designCategory": [
@@ -4854,10 +4997,10 @@
             "data sonification"
         ],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "geography"
+            "environmental sciences & ecology"
         ],
         "意象": "Nature-oriented sound",
         "computation": "",
@@ -4878,7 +5021,7 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -4886,7 +5029,7 @@
         "designTechnique": [
             "sound/music",
             "imagery/icon/photo",
-            "animation",
+            "animation/kinetic",
             "large immersive screen",
             "metaphor"
         ],
@@ -4895,7 +5038,7 @@
             "inform"
         ],
         "whereField": [
-            "health/medicine"
+            "health & well-being"
         ],
         "意象": "breathe",
         "computation": "",
@@ -4914,7 +5057,7 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -4928,7 +5071,7 @@
             "inform"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -4949,7 +5092,7 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface",
@@ -4962,7 +5105,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "biology"
@@ -4986,8 +5129,8 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -4999,11 +5142,11 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "simulate/represent",
-            "explore/experiment"
+            "reveal",
+            "experiment"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "",
         "computation": "",
@@ -5024,7 +5167,7 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -5032,7 +5175,7 @@
         "designTechnique": [
             "typography/calligraphy",
             "synchronous generation",
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -5060,8 +5203,8 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -5072,11 +5215,11 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "pursuade/promote",
+            "advocate",
             "inform"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -5097,7 +5240,7 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -5108,10 +5251,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "",
         "computation": "",
@@ -5132,7 +5275,7 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show",
+            "art show",
             "pictorial/annotated portfolio"
         ],
         "designCategory": [
@@ -5149,10 +5292,10 @@
         "designParadigm": [],
         "whatPurpose": [
             "engage",
-            "criticize/question/reflect"
+            "criticize"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "玻璃瓶掉落-->自然的破坏",
         "computation": "",
@@ -5171,7 +5314,7 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image",
@@ -5182,11 +5325,11 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment",
-            "criticize/question/reflect"
+            "experiment",
+            "criticize"
         ],
         "whereField": [
-            "geography"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -5207,21 +5350,21 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "video"
         ],
         "designTechnique": [
-            "animation",
+            "animation/kinetic",
             "color"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "criticize/question/reflect"
+            "criticize"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -5242,7 +5385,7 @@
             "2021"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface",
@@ -5250,13 +5393,13 @@
         ],
         "designTechnique": [
             "narrative",
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [
             "generative art"
         ],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "biology"
@@ -5278,13 +5421,13 @@
             "2021"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "video"
         ],
         "designTechnique": [
-            "animation",
+            "animation/kinetic",
             "imagery/icon/photo",
             "sound/music",
             "narrative"
@@ -5293,7 +5436,7 @@
             "data sonification"
         ],
         "whatPurpose": [
-            "analysis",
+            "analyze",
             "inform"
         ],
         "whereField": [
@@ -5318,7 +5461,7 @@
             "2021"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "artifact"
@@ -5337,7 +5480,7 @@
             "engage"
         ],
         "whereField": [
-            "health/medicine"
+            "health & well-being"
         ],
         "意象": "mask，earth made of yarn",
         "computation": "",
@@ -5356,7 +5499,7 @@
             "2021"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "installation"
@@ -5369,10 +5512,10 @@
         "designParadigm": [],
         "whatPurpose": [
             "inform",
-            "socialize/connect"
+            "socialize"
         ],
         "whereField": [
-            "health/medicine"
+            "health & well-being"
         ],
         "意象": "",
         "computation": "",
@@ -5407,7 +5550,7 @@
             "enable"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "",
         "computation": "",
@@ -5440,10 +5583,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -5478,7 +5621,7 @@
             "generative art"
         ],
         "whatPurpose": [
-            "simulate/represent"
+            "reveal"
         ],
         "whereField": [
             "computer science"
@@ -5513,10 +5656,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "analysis"
+            "analyze"
         ],
         "whereField": [
-            "literature"
+            "language & literature"
         ],
         "意象": "",
         "computation": "",
@@ -5537,7 +5680,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
@@ -5549,10 +5692,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "criticize/question/reflect"
+            "criticize"
         ],
         "whereField": [
-            "geography"
+            "environmental sciences & ecology"
         ],
         "意象": "",
         "computation": "",
@@ -5573,8 +5716,8 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "interactive interface"
@@ -5587,10 +5730,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "pursuade/promote"
+            "advocate"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "",
         "computation": "",
@@ -5611,7 +5754,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -5619,14 +5762,14 @@
         "designTechnique": [
             "metaphor",
             "GUI interaction",
-            "animation"
+            "animation/kinetic"
         ],
         "designParadigm": [],
         "whatPurpose": [
             "inform"
         ],
         "whereField": [
-            "society"
+            "social issues"
         ],
         "意象": "chromosome",
         "computation": "",
@@ -5645,7 +5788,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "static image"
@@ -5659,7 +5802,7 @@
             "provoke"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
@@ -5680,7 +5823,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "performance",
@@ -5688,13 +5831,13 @@
         ],
         "designTechnique": [
             "biology/plants",
-            "animation",
+            "animation/kinetic",
             "sound/music"
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "analysis",
-            "simulate/represent"
+            "analyze",
+            "reveal"
         ],
         "whereField": [
             "biology"
@@ -5718,7 +5861,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show",
+            "art show",
             "pictorial/annotated portfolio"
         ],
         "designCategory": [
@@ -5733,7 +5876,7 @@
             "archive"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "",
         "computation": "",
@@ -5754,7 +5897,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "performance"
@@ -5766,11 +5909,11 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "commemorate/celebrate",
-            "explore/experiment"
+            "memorize",
+            "experiment"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "",
         "computation": "",
@@ -5792,7 +5935,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -5805,7 +5948,7 @@
             "wearable art"
         ],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "not specified"
@@ -5830,7 +5973,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -5845,7 +5988,7 @@
             "speculative design"
         ],
         "whatPurpose": [
-            "explore/experiment"
+            "experiment"
         ],
         "whereField": [
             "biology"
@@ -5867,7 +6010,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "installation"
@@ -5881,10 +6024,10 @@
         "designParadigm": [],
         "whatPurpose": [
             "engage",
-            "criticize/question/reflect"
+            "criticize"
         ],
         "whereField": [
-            "art/music"
+            "art"
         ],
         "意象": "",
         "computation": "",
@@ -5906,7 +6049,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "interactive interface"
@@ -5917,10 +6060,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "pursuade/promote"
+            "advocate"
         ],
         "whereField": [
-            "environment"
+            "environmental sciences & ecology"
         ],
         "意象": "plants",
         "computation": "",
@@ -5939,8 +6082,8 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "performance"
@@ -5951,8 +6094,8 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "witness/aid",
-            "socialize/connect"
+            "witness",
+            "socialize"
         ],
         "whereField": [
             "computer science"
@@ -5965,7 +6108,7 @@
         "Background": "",
         "Affiliation": "",
         "Notes": "",
-        "images": "PRESENTATION OF SELF IN MACHINE LIFE.png"
+        "images": "Presentation of Self in Machine Life.png"
     },
     {
         "name": "Sifting Strands : Winter and Spring",
@@ -5974,8 +6117,8 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show",
-            "(Program + )Papers"
+            "art show",
+            "paper"
         ],
         "designCategory": [
             "algorithm/tool",
@@ -5990,8 +6133,8 @@
             "generative art"
         ],
         "whatPurpose": [
-            "simulate/represent",
-            "explore/experiment"
+            "reveal",
+            "experiment"
         ],
         "whereField": [
             "astronomy"
@@ -6013,7 +6156,7 @@
             "2022"
         ],
         "artPaper": [
-            "Art Show"
+            "art show"
         ],
         "designCategory": [
             "artifact"
@@ -6027,7 +6170,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "simulate/represent"
+            "reveal"
         ],
         "whereField": [
             "physics"
@@ -6049,7 +6192,7 @@
             "2022"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "installation"
@@ -6064,7 +6207,7 @@
             "provoke"
         ],
         "whereField": [
-            "media"
+            "news & media"
         ],
         "意象": "",
         "computation": "",
@@ -6083,7 +6226,7 @@
             "2022"
         ],
         "artPaper": [
-            "(Program + )Papers"
+            "paper"
         ],
         "designCategory": [
             "artifact",
@@ -6091,7 +6234,9 @@
         ],
         "designTechnique": [
             "physical meterial",
-            "imagery/icon/photo"
+            "imagery/icon/photo",
+            "color",
+            "shape/pattern"
         ],
         "designParadigm": [],
         "whatPurpose": [
@@ -6099,7 +6244,7 @@
             "engage"
         ],
         "whereField": [
-            "science"
+            "not specified"
         ],
         "意象": "",
         "computation": "",
@@ -6125,7 +6270,7 @@
         ],
         "designTechnique": [
             "metaphor",
-            "animation",
+            "animation/kinetic",
             "shape/pattern",
             "color"
         ],
@@ -6133,7 +6278,9 @@
         "whatPurpose": [
             "engage"
         ],
-        "whereField": [],
+        "whereField": [
+            "business"
+        ],
         "意象": "animated balloons",
         "computation": "",
         "特殊材料": "",
@@ -6165,7 +6312,9 @@
         "whatPurpose": [
             "engage"
         ],
-        "whereField": [],
+        "whereField": [
+            "not specified"
+        ],
         "意象": "",
         "computation": "",
         "特殊材料": "a raspberry pi connected with three eight channel relays that control 24 LED lights",
@@ -6197,7 +6346,7 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "criticize/question/reflect",
+            "criticize",
             "empower"
         ],
         "whereField": [
@@ -6237,11 +6386,11 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "pursuade/promote",
+            "advocate",
             "engage"
         ],
         "whereField": [
-            "literature"
+            "language & literature"
         ],
         "意象": "",
         "computation": "",
@@ -6275,10 +6424,10 @@
         ],
         "designParadigm": [],
         "whatPurpose": [
-            "criticize/question/reflect"
+            "criticize"
         ],
         "whereField": [
-            "urban study"
+            "urban studies"
         ],
         "意象": "",
         "computation": "",
